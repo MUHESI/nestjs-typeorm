@@ -36,3 +36,5 @@ $ npm run start:prod
 ## DataBase
 
 sqlite 
+
+- tuto : https://www.youtube.com/watch?v=sNosL578ECo&t=18s
