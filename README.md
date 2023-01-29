@@ -10,8 +10,8 @@
 ## Description
 
 In this project I get started with nestjs , a backend framework 
-feautes :
-CRUD user  it means we can CREATE, READ, UPDATE, DELETE user
+features :
+CRUD user it means we can CREATE, READ, UPDATE, DELETE an user
 
 ## Installation
 
